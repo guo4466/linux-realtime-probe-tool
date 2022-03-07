@@ -19,6 +19,8 @@ Linux 内核实时性瓶颈分析工具
 
 - gitee @guohaocs2c
 - email: guohao@kylinos.cn
+- gitee @chengbo-gao
+- email: gaochengbo@kylinos.cn
 
 ### 难度
 
