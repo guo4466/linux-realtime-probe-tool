@@ -1,4 +1,4 @@
-# proj123-linux-realtime-probe-tool
+# linux-realtime-probe-tool
 Linux 内核实时性瓶颈分析工具
 
 ### 项目描述
